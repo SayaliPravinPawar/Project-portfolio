@@ -1,0 +1,16 @@
+<style> 
+   div{
+             color: white;
+            background-color: black;
+            height: 100px;
+            width: 500px;
+     }
+     .floating-image{
+        float: right;
+         margin: 10px;
+          border: 1px solid black;
+          box-shadow: 0 0 5px black;
+     }
+
+    </style>
+
